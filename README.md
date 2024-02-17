@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=otari2002)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=otari2002&show_icons=true&locale=en&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=otari2002&show_icons=true&locale=en)
+![trophy](https://github-readme-stats.vercel.app/api/top-langs?username=otari2002&show_icons=true&locale=en&layout=compact)
+![trophy](https://github-readme-stats.vercel.app/api?username=otari2002&show_icons=true&locale=en)
+![trophy](https://github-readme-streak-stats.herokuapp.com/?user=otari2002&)
