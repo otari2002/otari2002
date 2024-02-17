@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, I am Omar Tahri
 
 <!--
 **otari2002/otari2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=otari2002)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=otari2002)](https://github.com/ryo-ma/github-profile-trophy)
 ![trophy](https://github-readme-stats.vercel.app/api/top-langs?username=otari2002&show_icons=true&locale=en&layout=compact)
 ![trophy](https://github-readme-stats.vercel.app/api?username=otari2002&show_icons=true&locale=en)
 ![trophy](https://github-readme-streak-stats.herokuapp.com/?user=otari2002&)
+-->
